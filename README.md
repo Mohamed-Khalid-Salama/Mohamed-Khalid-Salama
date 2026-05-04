@@ -5,14 +5,13 @@
   <a href="https://www.linkedin.com/in/muhammed-khaled1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Cairo,%20Egypt-EAB308?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a Senior Software Engineer with **3.5+ years** of hands-on experience designing, building, and modernizing enterprise Java systems — from document management platforms serving clients across **5 countries** to mission-critical CAD & GIS dispatch systems for national emergency services.
+I'm a Senior Software Engineer with **4 years** of hands-on experience designing, building, and modernizing enterprise Java systems — from document management platforms serving clients across **5 countries** to mission-critical CAD & GIS dispatch systems for national emergency services.
 
 My focus is on **backend engineering**, **database migrations**, and **legacy-to-modern modernization** — taking systems out of aging stacks and into maintainable, scalable architectures.
 
@@ -92,12 +91,6 @@ Working on **GSS (Geographic Security System)** — a mission-critical CAD/GIS p
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
 </p>
 
-**GIS & Spatial**
-<p>
-  <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=flat-square&logo=arcgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-
 ---
 
 ### 📜 Certifications
@@ -112,17 +105,6 @@ Working on **GSS (Geographic Security System)** — a mission-critical CAD/GIS p
 ### 🎓 Education
 
 **Bachelor's Degree, Computer Science** — Benha University &nbsp;<sub>(2015 – 2020)</sub>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
 
 ### 🤝 Let's Connect
 
